@@ -68,3 +68,7 @@ VALUES
     (150.00, 'Bills', 'Electricity bill', '2025-01-05'),
     (90.25, 'Groceries', 'Weekly groceries', '2025-01-06');
 
+
+
+
+Note:- I change the password of the my postresql database.
